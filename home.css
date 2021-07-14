@@ -1,0 +1,73 @@
+#title
+{
+	
+	color: white;
+}
+.container-fluid
+{
+	padding: 3% 15%;
+}
+.navbar-brand
+{
+	font-size: 2rem;
+	font-family: 'Montserrat', sans-serif;
+}
+.navbar-item
+{
+	padding: 0 18px;
+}
+.nav-link
+{
+	font-size: 1.2rem;
+	font-family: 'Montserrat-light';
+	color: #DF6120;
+}
+.topic
+{
+	text-align: center;
+	font-size: 2rem;
+	color: yellow;
+	font-family: 'Bebas Neue', cursive;
+}
+.content
+{
+text-align: center;
+font-size: 1.5rem;
+
+}
+.ria
+{
+text-align: center;
+font-size: 1.5rem;
+}
+.hehe
+{
+	font-size: 1.5rem;
+	text-align: center;
+}
+.container
+{
+justify-content: center;  
+align-items: center;
+}
+.btn
+{
+	text-align: center;
+	margin: auto;
+	display: flex;
+	margin: auto;
+	justify-content: center;
+	width:200px ;
+}
+.img
+{
+	text-align: center;
+	margin: auto;
+	display: flex;
+	margin: auto;
+	justify-content: center;
+	width:200px ;
+	border-radius: 100%;
+	padding: 6px;
+	opacity: 0.5;
+}
